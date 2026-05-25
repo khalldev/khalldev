@@ -4,6 +4,8 @@
 
 ## GitHub Activity
 
+- **2026-05-25** — watching [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
+- **2026-05-25** — watching [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)
 - **2026-05-21** — watching [khalldev/humync-releases](https://github.com/khalldev/humync-releases)
 - **2026-05-21** — watching [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - **2026-05-20** — watching [mattpocock/skills](https://github.com/mattpocock/skills)
