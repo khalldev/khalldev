@@ -4,6 +4,7 @@
 
 ## GitHub Activity
 
+- **2026-05-28** — watching [thoughtfulllc/careerbot](https://github.com/thoughtfulllc/careerbot)
 - **2026-05-26** — watching [joreilly/ClimateTraceKMP](https://github.com/joreilly/ClimateTraceKMP)
 - **2026-05-25** — watching [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
 - **2026-05-25** — watching [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)
@@ -11,7 +12,6 @@
 - **2026-05-21** — watching [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - **2026-05-20** — watching [mattpocock/skills](https://github.com/mattpocock/skills)
 - **2026-05-12** — watching [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)
-- **2026-05-08** — watching [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
 
 </td>
 
