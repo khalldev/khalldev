@@ -4,14 +4,14 @@
 
 ## GitHub Activity
 
+- **2026-05-29** — watching [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
+- **2026-05-29** — watching [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music)
+- **2026-05-29** — watching [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics)
 - **2026-05-28** — watching [thoughtfulllc/careerbot](https://github.com/thoughtfulllc/careerbot)
 - **2026-05-26** — watching [joreilly/ClimateTraceKMP](https://github.com/joreilly/ClimateTraceKMP)
 - **2026-05-25** — watching [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
 - **2026-05-25** — watching [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)
 - **2026-05-21** — watching [khalldev/humync-releases](https://github.com/khalldev/humync-releases)
-- **2026-05-21** — watching [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **2026-05-20** — watching [mattpocock/skills](https://github.com/mattpocock/skills)
-- **2026-05-12** — watching [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)
 
 </td>
 
