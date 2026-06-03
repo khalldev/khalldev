@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: khalldev
-          MEDIUM_USER: khalkhalkhal
+          MEDIUM_USER: khalcraft
         run: go run .
 
       - name: Commit if changed

@@ -11,8 +11,8 @@ func TestLoadDefaults(t *testing.T) {
 	if c.GitHubUser != "khalldev" {
 		t.Errorf("GitHubUser default = %q, want khalldev", c.GitHubUser)
 	}
-	if c.MediumUser != "khalkhalkhal" {
-		t.Errorf("MediumUser default = %q, want khalkhalkhal", c.MediumUser)
+	if c.MediumUser != "khalcraft" {
+		t.Errorf("MediumUser default = %q, want khalcraft", c.MediumUser)
 	}
 	if c.MaxWatched != 8 || c.MaxArticles != 10 {
 		t.Errorf("limits wrong: watched=%d articles=%d", c.MaxWatched, c.MaxArticles)
