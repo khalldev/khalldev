@@ -4,6 +4,7 @@
 
 ## GitHub Activity
 
+- **2026-06-11** — watching [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - **2026-06-07** — watching [oraios/serena](https://github.com/oraios/serena)
 - **2026-06-07** — watching [upstash/context7](https://github.com/upstash/context7)
 - **2026-06-03** — watching [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)
@@ -11,7 +12,6 @@
 - **2026-05-29** — watching [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music)
 - **2026-05-29** — watching [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics)
 - **2026-05-28** — watching [thoughtfulllc/careerbot](https://github.com/thoughtfulllc/careerbot)
-- **2026-05-26** — watching [joreilly/ClimateTraceKMP](https://github.com/joreilly/ClimateTraceKMP)
 
 </td>
 
