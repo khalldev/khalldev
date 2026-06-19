@@ -7,16 +7,14 @@ import (
 	"text/template"
 
 	"github.com/khalldev/readme-profile/internal/github"
-	"github.com/khalldev/readme-profile/internal/medium"
 )
 
 //go:embed templates/README.tmpl
 var tmplFS embed.FS
 
 type Data struct {
-	User     string
-	Watched  []github.Watched
-	Articles []medium.Article
+	User    string
+	Watched []github.Watched
 }
 
 func Render(d Data) (string, error) {

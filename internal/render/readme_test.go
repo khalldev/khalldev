@@ -5,7 +5,6 @@ import (
 	"testing"
 
 	"github.com/khalldev/readme-profile/internal/github"
-	"github.com/khalldev/readme-profile/internal/medium"
 )
 
 func TestRenderGolden(t *testing.T) {
@@ -14,10 +13,6 @@ func TestRenderGolden(t *testing.T) {
 		Watched: []github.Watched{
 			{Name: "BenEmdon/CenteredCollectionView", URL: "https://github.com/BenEmdon/CenteredCollectionView", Date: "2026-05-25"},
 			{Name: "kageroumado/phosphene", URL: "https://github.com/kageroumado/phosphene", Date: "2026-05-22"},
-		},
-		Articles: []medium.Article{
-			{Title: "Type-Driven Design in Swift", Link: "https://medium.com/@khalkhalkhal/type-driven-1"},
-			{Title: "Apple Platforms Runs on macOS DNA", Link: "https://medium.com/@khalkhalkhal/apple-2"},
 		},
 	}
 	got, err := Render(d)

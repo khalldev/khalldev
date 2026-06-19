@@ -1,21 +1,5 @@
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ## GitHub Activity
 
 {{range .Watched}}- **{{.Date}}** — watching [{{.Name}}]({{.URL}})
 {{end}}
-</td>
-
-<td valign="top" width="50%">
-
-## Medium Articles
-
-{{range .Articles}}- **{{.Title}}** - [Read Article]({{.Link}})
-{{end}}
-</td>
-</tr>
-</table>
-
 <sub>This is an automation written in Go by <a href="https://github.com/{{.User}}">{{.User}}</a></sub>
