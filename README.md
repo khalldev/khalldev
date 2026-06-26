@@ -1,5 +1,6 @@
 ## GitHub Activity
 
+- **2026-06-26** — watching [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 - **2026-06-19** — watching [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - **2026-06-11** — watching [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - **2026-06-07** — watching [oraios/serena](https://github.com/oraios/serena)
@@ -7,6 +8,5 @@
 - **2026-06-03** — watching [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)
 - **2026-05-29** — watching [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - **2026-05-29** — watching [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music)
-- **2026-05-29** — watching [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics)
 
 <sub>This is an automation written in Go by <a href="https://github.com/khalldev">khalldev</a></sub>
