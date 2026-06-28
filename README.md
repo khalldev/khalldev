@@ -6,6 +6,5 @@
 - **2026-06-07** — watching [oraios/serena](https://github.com/oraios/serena)
 - **2026-06-07** — watching [upstash/context7](https://github.com/upstash/context7)
 - **2026-06-03** — watching [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)
-- **2026-05-29** — watching [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
 
 <sub>This is an automation written in Go by <a href="https://github.com/khalldev">khalldev</a></sub>
