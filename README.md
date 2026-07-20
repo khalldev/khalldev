@@ -1,5 +1,6 @@
 ## GitHub Activity
 
+- **2026-07-20** — watching [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - **2026-07-17** — watching [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - **2026-07-14** — watching [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 - **2026-07-07** — watching [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials)
