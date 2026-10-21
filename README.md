@@ -1,5 +1,6 @@
 ## GitHub Activity
 
+- **2026-10-21** — watching [herdrdev/herdr](https://github.com/herdrdev/herdr)
 - **2026-10-20** — watching [jo-duchan/tapflow](https://github.com/jo-duchan/tapflow)
 - **2026-10-20** — watching [nicosuave/memex](https://github.com/nicosuave/memex)
 - **2026-10-16** — watching [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)
